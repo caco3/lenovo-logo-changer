@@ -1,5 +1,6 @@
 # Lenovo UEFI Boot Logo Changer
 
+
 ![GitHub License](https://img.shields.io/github/license/chnzzh/lenovo-logo-changer)
 ![GitHub top language](https://img.shields.io/github/languages/top/chnzzh/lenovo-logo-changer)
 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/chnzzh/lenovo-logo-changer/release.yml)
